@@ -1,0 +1,10 @@
+# This is the Docker Compose configuration file.
+# It defines multiple services and how they interact within the application ecosystem.
+#
+# Key elements:
+# - Defines the backend, frontend, and database services.
+# - Specifies network communication and port mapping.
+# - Configures volume persistence for data storage.
+# - Establishes dependencies between services to ensure proper startup order.
+#
+# This file simplifies deployment by orchestrating multiple containers in a single command.

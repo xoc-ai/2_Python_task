@@ -1,0 +1,12 @@
+python-dotenv
+pyyaml
+matplotlib
+seaborn
+fastapi
+uvicorn
+streamlit
+pydantic
+sqlalchemy
+pandas
+plotly
+pytest
